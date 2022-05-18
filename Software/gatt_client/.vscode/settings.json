@@ -1,0 +1,26 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.flashType": "UART",
+  "idf.portWin": "COM4",
+  "idf.adapterTargetName": "esp32",
+  "files.associations": {
+    "optional": "c",
+    "istream": "c",
+    "ostream": "c",
+    "ratio": "c",
+    "system_error": "c",
+    "array": "c",
+    "functional": "c",
+    "tuple": "c",
+    "type_traits": "c",
+    "utility": "c",
+    "gpio.h": "c",
+    "chrono": "c",
+    "iostream": "c",
+    "esp_gap_ble_api.h": "c",
+    "esp_gattc_api.h": "c",
+    "esp_bt.h": "c",
+    "esp_bt_main.h": "c",
+    "*.tcc": "cpp"
+  }
+}
